@@ -1,0 +1,31 @@
+Dataset
+   ↓
+EDA
+   ↓
+Cleaning
+   ↓
+Train / Validation / Test
+   ↓
+Text Representation
+   ↓
+Baseline Model
+   ↓
+Model Training
+   ↓
+Validation
+   ↓
+Hyperparameter Tuning
+   ↓
+Final Test Evaluation
+   ↓
+Error Analysis
+   ↓
+Model Comparison
+   ↓
+Save Best Model
+   ↓
+Prediction Pipeline
+   ↓
+Web/API Application
+   ↓
+Final Demo
